@@ -10,5 +10,7 @@ This repository features a collection of data science and machine learning proje
 ## Description
 The projects in this repository span diverse areas, including structured data analysis, image classification, and NLP. Each project folder contains the code, datasets, and results, showcasing my approach to solving real-world challenges on Kaggle.
 
+link:- https://www.kaggle.com/adityakishor1
+
 ---
 
